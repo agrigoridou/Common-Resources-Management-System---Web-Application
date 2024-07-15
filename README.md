@@ -1,8 +1,9 @@
 # Common Resources Management System (CRMS) - Web Application
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/34490f84-6c5d-40c6-bc8a-bef7758411ed" alt="image">
+    <img src="https://github.com/user-attachments/assets/34490f84-6c5d-40c6-bc8a-bef7758411ed" alt="image" width="300"> <!-- Adjust width as needed -->
 </div>
+
 
 
 The Common Resources Management System (CRMS) is a web application that enables efficient management of rooms, bookings, and teachings. It provides a user-friendly interface for creating, updating, displaying, and deleting bookings and rooms.
