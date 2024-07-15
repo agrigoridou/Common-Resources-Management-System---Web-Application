@@ -35,7 +35,7 @@ The Common Resources Management System (CRMS) is a web application that enables 
 - **XAMPP**: Ideal tool for local development and testing, though not explicitly mentioned in the project.
 
 ## Demo Video
-[Insert demo video URL here]
+[https://www.youtube.com/watch?v=_gJCtvbkoCQ]
 
 ## Installation Instructions
 
