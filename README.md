@@ -1,7 +1,7 @@
 # Common Resources Management System (CRMS) - Web Application
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/34490f84-6c5d-40c6-bc8a-bef7758411ed" alt="image" width="300"> <!-- Adjust width as needed -->
+    <img src="https://github.com/user-attachments/assets/34490f84-6c5d-40c6-bc8a-bef7758411ed" alt="image" width="600">
 </div>
 
 
