@@ -45,4 +45,4 @@ https://www.youtube.com/watch?v=_gJCtvbkoCQ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/athanasigrigoridou/Common-Resources-Management-System---Web-Application.git
+   https://github.com/agrigoridou/Common-Resources-Management-System---Web-Application.git
